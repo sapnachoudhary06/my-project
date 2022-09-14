@@ -11,4 +11,4 @@ function countVowels(str) {
   return count;
 }
 
-console.log(countVowels('SapnachoudharyNikhilKumariii'));
+console.log(countVowels('Sapnachoudhary'));
